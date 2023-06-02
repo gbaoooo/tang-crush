@@ -14,6 +14,6 @@ const CONFIG = {
     reply: 'Tại anh qá là dth nên emm không thể giận anh nữaaaa',
     mess: 'Anh biết mà 🥰. Iu bée nhiều nhiều 😘😘',
     messDesc: 'Thế còn đợi gì mà không hết giận anh đi.',
-    btnAccept: '=))))))0',
+    btnAccept: 'quà của em nè =))))))',
     messLink: 'https://photos.app.goo.gl/8QxL5fJcNnUknLTD7' //link mess của các bạn. VD: https://m.me/nam.nodemy
 }
